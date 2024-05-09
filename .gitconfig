@@ -1,0 +1,6 @@
+[user]
+	name = astroangel10
+	email = angel.nunez06@inacapmail.cl
+[core]
+	editor = code --wait
+	autocrfl = true
